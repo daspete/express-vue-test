@@ -1,0 +1,4 @@
+'use strict';
+
+module.exports.Config = require('./config');
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1vZGVscy9pbmRleC5qcyJdLCJuYW1lcyI6WyJtb2R1bGUiLCJleHBvcnRzIiwiQ29uZmlnIiwicmVxdWlyZSJdLCJtYXBwaW5ncyI6Ijs7QUFBQUEsT0FBT0MsT0FBUCxDQUFlQyxNQUFmLEdBQXdCQyxRQUFRLFVBQVIsQ0FBeEIiLCJmaWxlIjoibW9kZWxzL2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsibW9kdWxlLmV4cG9ydHMuQ29uZmlnID0gcmVxdWlyZSgnLi9jb25maWcnKTsiXX0=
